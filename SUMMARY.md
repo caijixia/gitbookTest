@@ -22,6 +22,6 @@
   * Weex接入
 * [组件化](zu-jian-hua.md)
   * [UI组件](zu-jian-hua/uizu-jian.md)
-  * 功能组件
+  * [功能组件](zu-jian-hua/gong-neng-zu-jian.md)
 * [FAQ](faq.md)
 
