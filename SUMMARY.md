@@ -21,5 +21,7 @@
   * [消息订阅&响应](guan-jian-mo-kuai/xiao-xi-ding-960526-xiang-ying.md)
   * Weex接入
 * [组件化](zu-jian-hua.md)
+  * [UI组件](zu-jian-hua/uizu-jian.md)
+  * 功能组件
 * [FAQ](faq.md)
 
