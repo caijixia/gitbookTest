@@ -9,6 +9,6 @@
 * [关键技术](guan-jian-mo-kuai.md)
   * [打包发布](guan-jian-mo-kuai/da-bao.md)
   * 灰度发布
-  * 热修复
+  * [热修复](guan-jian-mo-kuai/re-xiu-fu.md)
 * 组件化
 
