@@ -19,7 +19,7 @@
   * [热修复](guan-jian-mo-kuai/re-xiu-fu.md)
   * [H5交互](guan-jian-mo-kuai/h5jiao-hu.md)
   * [消息订阅&响应](guan-jian-mo-kuai/xiao-xi-ding-960526-xiang-ying.md)
-  * Weex接入
+  * [Weex接入](guan-jian-mo-kuai/weexjie-ru.md)
 * [组件化](zu-jian-hua.md)
   * [UI组件](zu-jian-hua/uizu-jian.md)
   * [功能组件](zu-jian-hua/gong-neng-zu-jian.md)
